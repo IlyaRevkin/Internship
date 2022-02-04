@@ -1,0 +1,21 @@
+{
+  "id": "0001",
+  "timestamp": 1638957481,
+  "neighbours": {
+    "0002": {
+      "state": "yes",
+      "uart0": 1
+    },
+    "0003": {
+      "state": "yes",
+      "uart0": 0,
+      "spi": 1
+    },
+    "0004": {
+      "state": "no",
+      "uart0": 1,
+      "spi0": 1
+     }
+  }
+}
+
